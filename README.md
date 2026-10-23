@@ -9,7 +9,7 @@ This is personal project is based on a dataset obtained from Kaggle and this pro
 The dataset contains information of about 1001 customers that patronizes the Coffee shop. It has information about the customers’ names, email, coffee type, size, unit price, amongst other variables. There are 16 fields for the dataset.
 
 ### DATA CLEANING
-In this beginner-level project, I worked on cleaning and preparing a dataset to make it ready for visualization. The dataset used was duplicated initially to ensure that no data would be lost in case of any mistakes during the process.
+In this project, I worked on cleaning and preparing a dataset to make it ready for visualization. The dataset used was duplicated initially to ensure that no data would be lost in case of any mistakes during the process.
 
 ### Project Workflow
 -Data Duplication : I started by creating a duplicate of the dataset to safeguard against any potential loss due to errors.
